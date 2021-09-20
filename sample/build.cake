@@ -26,7 +26,8 @@ Sitecore.Parameters.InitParams(
     libsDir: "./lib",
     srcDir: "./src",
     solutionFilePath: "./Habitat.sln",
-    unicornConfigPath: "./src/Foundation/Serialization/code/App_Config/Include/Unicorn.SharedSecret.config"
+    unicornConfigPath: "./src/Foundation/Serialization/code/App_Config/Include/Unicorn.SharedSecret.config",
+    xUnitTestsRunInParallel: "None"
 );
 
 // //////////////////////////////////////////////////
